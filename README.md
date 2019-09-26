@@ -1,2 +1,2 @@
 # Test
-This repository is a a test
+This repository is a test
